@@ -24,7 +24,6 @@ jobs:
     steps:
       - name: run-ghrs
         # Use latest release.
-      - name: github-repo-stats
         uses: jgehrcke/github-repo-stats@v1.4.1
         with:
           repository: ${{ matrix.statsRepo }}
