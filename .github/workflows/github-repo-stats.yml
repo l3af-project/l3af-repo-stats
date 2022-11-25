@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: [ 'l3af-project/l3afd' ]
+        statsRepo: [ 'l3af-project/l3afd', 'l3af-project/eBPF-Package-Repository' ]
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
@@ -24,7 +24,7 @@ jobs:
     steps:
       - name: run-ghrs
         # Use latest release.
-        uses: jgehrcke/github-repo-stats@v1.4.1
+        uses: jgehrcke/github-repo-stats@f1749165dc32fb4cc2c2bea60f11a9e528d92313
         with:
           repository: ${{ matrix.statsRepo }}
           ghtoken: ${{ secrets.ghrs_github_api_token }}
