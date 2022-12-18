@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/eBPF-Package-Repository,25,15
+/l3af-project/eBPF-Package-Repository/tree/main/ipfix-flow-exporter,12,5
+/l3af-project/eBPF-Package-Repository/tree/main/tc-root,8,5
+/l3af-project/eBPF-Package-Repository/tree/dee3c24b5263fb0c65ca1bf22ecc70f16e36e4a5/tc-root,8,1
+/l3af-project/eBPF-Package-Repository/tree/main/xdp-root,6,6
+/l3af-project/eBPF-Package-Repository/tree/main/ratelimiting,6,5
+/l3af-project/eBPF-Package-Repository/blob/dee3c24b5263fb0c65ca1bf22ecc70f16e36e4a5/tc-root/tc_root_common.h,6,1
+/l3af-project/eBPF-Package-Repository/tree/main/windows,5,2
+/l3af-project/eBPF-Package-Repository/tree/main/connection-limit,4,3
+/l3af-project/eBPF-Package-Repository/blob/dee3c24b5263fb0c65ca1bf22ecc70f16e36e4a5/tc-root/tc_root_egress_kern.c,4,1
