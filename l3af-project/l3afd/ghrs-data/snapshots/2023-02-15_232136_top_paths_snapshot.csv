@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/l3afd,53,31
+/l3af-project/l3afd/releases/tag/v1.0.0,8,6
+/l3af-project/l3afd/issues,6,4
+/l3af-project/l3afd/tree/main/kf,6,2
+/l3af-project/l3afd/tree/main/.github/workflows,4,1
+/l3af-project/l3afd/blob/main/kf/bpf.go,2,2
+/l3af-project/l3afd/blob/main/docs/prod-deploy-guide.md,2,1
+/l3af-project/l3afd/blob/main/kf/bpfmap.go,2,1
+/l3af-project/l3afd/blob/main/kf/nfconfig.go,2,1
+/l3af-project/l3afd/pulls,2,1
