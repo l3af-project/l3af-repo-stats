@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/l3afd,115,46
+/l3af-project/l3afd/pulls,57,14
+/l3af-project/l3afd/pull/245,43,10
+/l3af-project/l3afd/pull/262,43,10
+/l3af-project/l3afd/pull/262/files,29,8
+/l3af-project/l3afd/issues,28,11
+/l3af-project/l3afd/blob/main/kf/nfconfig.go,24,2
+/l3af-project/l3afd/pull/265,19,6
+/l3af-project/l3afd/blob/main/kf/bpf.go,16,5
+/l3af-project/l3afd/blob/main/.github/workflows/ci-build-windows.yaml,16,3
