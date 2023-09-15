@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/eBPF-Package-Repository,70,23
+/l3af-project/eBPF-Package-Repository/pulls,51,7
+/l3af-project/eBPF-Package-Repository/tree/main/ratelimiting,37,6
+/l3af-project/eBPF-Package-Repository/tree/main/traffic-mirroring,36,8
+/l3af-project/eBPF-Package-Repository/pull/66,32,5
+/l3af-project/eBPF-Package-Repository/tree/main/ipfix-flow-exporter,27,4
+/l3af-project/eBPF-Package-Repository/tree/main/xdp-root,27,4
+/l3af-project/eBPF-Package-Repository/tree/main/.github/workflows,21,2
+/l3af-project/eBPF-Package-Repository/actions,20,3
+/l3af-project/eBPF-Package-Repository/blob/main/ratelimiting/ratelimiting_kern.c,19,6
