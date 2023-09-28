@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/eBPF-Package-Repository/pulls,57,4
+/l3af-project/eBPF-Package-Repository,52,16
+/l3af-project/eBPF-Package-Repository/tree/main/traffic-mirroring,39,11
+/l3af-project/eBPF-Package-Repository/pull/66,29,3
+/l3af-project/eBPF-Package-Repository/actions,27,1
+/l3af-project/eBPF-Package-Repository/blob/main/traffic-mirroring/mirroring_ingress_kern.c,26,2
+/l3af-project/eBPF-Package-Repository/pull/67,24,5
+/l3af-project/eBPF-Package-Repository/pull/68,20,6
+/l3af-project/eBPF-Package-Repository/tree/main/xdp-root,20,6
+/l3af-project/eBPF-Package-Repository/blob/main/traffic-mirroring/mirroring_egress_kern.c,20,5
