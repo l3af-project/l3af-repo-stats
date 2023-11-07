@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/eBPF-Package-Repository/tree/main/traffic-mirroring,75,16
+/l3af-project/eBPF-Package-Repository,52,12
+/l3af-project/eBPF-Package-Repository/tree/main/ratelimiting,38,6
+/l3af-project/eBPF-Package-Repository/pulls,27,3
+/l3af-project/eBPF-Package-Repository/blob/main/traffic-mirroring/mirroring.c,23,6
+/l3af-project/eBPF-Package-Repository/tree/main/ipfix-flow-exporter,19,5
+/l3af-project/eBPF-Package-Repository/tree/main/tc-root,16,3
+/l3af-project/eBPF-Package-Repository/blob/main/ratelimiting/ratelimiting_kern.c,15,2
+/l3af-project/eBPF-Package-Repository/blob/main/traffic-mirroring/mirroring_ingress_kern.c,14,5
+/l3af-project/eBPF-Package-Repository/blob/main/traffic-mirroring/mirroring_egress_kern.c,10,4
