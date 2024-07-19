@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/l3afd,129,46
+/l3af-project/l3afd/pulls,115,6
+/l3af-project/l3afd/pull/421,46,3
+/l3af-project/l3afd/pull/426,34,4
+/l3af-project/l3afd/pull/421/files,22,3
+/l3af-project/l3afd/pull/420,16,5
+/l3af-project/l3afd/tree/main/bpfprogs,16,4
+/l3af-project/l3afd/blob/main/bpfprogs/nfconfig.go,16,3
+/l3af-project/l3afd/blob/main/bpfprogs/bpf.go,14,4
+/l3af-project/l3afd/blob/main/.github/workflows/ci-e2e.yaml,14,1
