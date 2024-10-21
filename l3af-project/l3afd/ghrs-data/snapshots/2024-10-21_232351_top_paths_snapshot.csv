@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/l3afd,100,42
+/l3af-project/l3afd/releases,30,7
+/l3af-project/l3afd/releases/tag/v2.1.0,24,16
+/l3af-project/l3afd/pulls,16,4
+/l3af-project/l3afd/tags,13,3
+/l3af-project/l3afd/issues,12,2
+/l3af-project/l3afd/actions,9,2
+/l3af-project/l3afd/blob/main/main.go,7,3
+/l3af-project/l3afd/releases/tag/v2.0.0,6,2
+/l3af-project/l3afd/actions/workflows/ci-build-windows.yaml,5,1
