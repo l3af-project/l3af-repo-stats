@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/eBPF-Package-Repository,23,15
+/l3af-project/eBPF-Package-Repository/tree/main/traffic-mirroring,13,7
+/l3af-project/eBPF-Package-Repository/tree/main/ratelimiting,6,5
+/l3af-project/eBPF-Package-Repository/tree/main/ipfix-flow-exporter,6,3
+/l3af-project/eBPF-Package-Repository/tree/main/examples,5,4
+/l3af-project/eBPF-Package-Repository/blob/main/traffic-mirroring/mirroring_egress.bpf.c,5,3
+/l3af-project/eBPF-Package-Repository/tree/main/tc-root,5,3
+/l3af-project/eBPF-Package-Repository/actions,4,2
+/l3af-project/eBPF-Package-Repository/actions/workflows/ci-build-xdp-programs-windows.yaml,4,2
+/l3af-project/eBPF-Package-Repository/actions/runs/10795580508/workflow,3,2
