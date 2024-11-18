@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/eBPF-Package-Repository,24,11
+/l3af-project/eBPF-Package-Repository/tree/main/traffic-mirroring,17,8
+/l3af-project/eBPF-Package-Repository/blob/main/examples/probes/kprobe/kprobe-payload.json,6,2
+/l3af-project/eBPF-Package-Repository/tree/main/examples/probes,6,2
+/l3af-project/eBPF-Package-Repository/blob/main/traffic-mirroring/README.md,5,4
+/l3af-project/eBPF-Package-Repository/commit/1e3412f5c02ebc7ecaa6132fa71a28b3ed05a824,5,4
+/l3af-project/eBPF-Package-Repository/tree/main/ratelimiting,4,3
+/l3af-project/eBPF-Package-Repository/blob/main/tc-root/README.md,4,2
+/l3af-project/eBPF-Package-Repository/blob/main/traffic-mirroring/mirroring.c,4,2
+/l3af-project/eBPF-Package-Repository/commit/7dc1634c357e14fb86f802831c6bdd8df2fdd229,4,2
