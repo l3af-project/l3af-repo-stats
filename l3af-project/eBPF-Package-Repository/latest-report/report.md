@@ -1,5 +1,5 @@
 % Statistics for l3af-project/eBPF-Package-Repository
-% Generated for [l3af-project/eBPF-Package-Repository](https://github.com/l3af-project/eBPF-Package-Repository) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-10 23:23 UTC.
+% Generated for [l3af-project/eBPF-Package-Repository](https://github.com/l3af-project/eBPF-Package-Repository) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-11 23:23 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `medium.com`, 02: `github.com`, 03: `Google`, 04: `l3af.io`, 05: `lfnetworking.org`, 06: `wiki.lfnetworking.org`, 07: `opensource.com`, 08: `statics.teams.cdn.office.net`, 09: `com.google.android.gm`, 10: `linkedin.com`, 11: `msazure.visualstudio.com`, 12: `lf-networking.atlassian.net`, 13: `ppc-word-edit.officeapps.live.com`, 14: `Bing`, 15: `DuckDuckGo`
+Top 15 referrers: 01: `medium.com`, 02: `github.com`, 03: `Google`, 04: `l3af.io`, 05: `lfnetworking.org`, 06: `wiki.lfnetworking.org`, 07: `opensource.com`, 08: `statics.teams.cdn.office.net`, 09: `com.google.android.gm`, 10: `lf-networking.atlassian.net`, 11: `msazure.visualstudio.com`, 12: `linkedin.com`, 13: `Bing`, 14: `ppc-word-edit.officeapps.live.com`, 15: `aliyuque.antfin.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `medium.com`, 02: `github.com`, 03: `Google`, 04: `l3af.io
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `BPF-Package-Repository/tree/main/traffic-mirroring`, 02: `BPF-Package-Repository`, 03: `BPF-Package-Repository/pull/41`, 04: `BPF-Package-Repository/blob/main/traffic-mirroring/mirroring.c`, 05: `BPF-Package-Repository/tree/main/ratelimiting`, 06: `BPF-Package-Repository/tree/main/ipfix-flow-exporter`, 07: `BPF-Package-Repository/blob/main/traffic-mirroring/mirroring_ingress_kern.c`, 08: `BPF-Package-Repository/tree/main/xdp-root`, 09: `BPF-Package-Repository/pull/42`, 10: `BPF-Package-Repository/pull/36`, 11: `BPF-Package-Repository/tree/main/examples`, 12: `BPF-Package-Repository/pull/31`, 13: `BPF-Package-Repository/pull/104`, 14: `BPF-Package-Repository/pulls`, 15: `BPF-Package-Repository/pull/89`
+Top 15 paths: 01: `BPF-Package-Repository/tree/main/traffic-mirroring`, 02: `BPF-Package-Repository`, 03: `BPF-Package-Repository/pull/41`, 04: `BPF-Package-Repository/blob/main/traffic-mirroring/mirroring.c`, 05: `BPF-Package-Repository/tree/main/ratelimiting`, 06: `BPF-Package-Repository/tree/main/ipfix-flow-exporter`, 07: `BPF-Package-Repository/blob/main/traffic-mirroring/mirroring_ingress_kern.c`, 08: `BPF-Package-Repository/pull/42`, 09: `BPF-Package-Repository/tree/main/xdp-root`, 10: `BPF-Package-Repository/pull/36`, 11: `BPF-Package-Repository/tree/main/examples`, 12: `BPF-Package-Repository/pull/104`, 13: `BPF-Package-Repository/pulls`, 14: `BPF-Package-Repository/pull/31`, 15: `BPF-Package-Repository/blob/main/ratelimiting/ratelimiting_kern.c`
 
 
 <script type="text/javascript">
