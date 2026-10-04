@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/l3af-project/eBPF-Package-Repository,5,3
+/l3af-project/eBPF-Package-Repository/tree/main/examples/probes,5,2
+/l3af-project/eBPF-Package-Repository/tree/main/ipfix-flow-exporter,4,4
+/l3af-project/eBPF-Package-Repository/tree/main/examples,3,2
+/l3af-project/eBPF-Package-Repository/blob/main/README.md,2,2
+/l3af-project/eBPF-Package-Repository/tree/main/examples/probes/kprobe,2,2
+/l3af-project/eBPF-Package-Repository/tree/main/tc-root,2,2
+/l3af-project/eBPF-Package-Repository/tree/main/windows,2,2
+/l3af-project/eBPF-Package-Repository/tree/main/ratelimiting,2,1
+/l3af-project/eBPF-Package-Repository/blob/main/CMakeLists.txt,1,1
